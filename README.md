@@ -1,6 +1,15 @@
-# Create T3 App
+# Aube 
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a toy version of the audiobook landscape I imagine for complex/harder books and academics/lecture.
+
+- [x] UI/UX for the demo.
+- [] Audio Integration and controls for the toy chapter.
+- [] Audio control on voice detection (browser based execution preffered)
+- [] Detection of voice stops the chapter read so that it could listen and process your question.
+- [] Take in that request and generate an answer quick. Result it in side tab.
+- [] Figure out readout of it (browser based or edge computation).
+- [] MVP done.
+- [] Harder Complex Vernacular to links (with tab view / serve images and easy explaination and links).
 
 ## What's next? How do I make an app with this?
 
